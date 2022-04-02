@@ -52,9 +52,9 @@ __Data Scientist__, Centreon (Paris/remote)
 
 Design, develop and deploy the first Machine Learning cloud services.
 
-* -- Create the first ML service within the company for anomaly detection.
+* -- Create the first ML service in the company for anomaly detection.
 * -- 200 models trained in production each day, 8 clients served.
-* -- Democratized AI within the company and outside through presentations at conferences (POSS 2019, Opensource Experience 2020), meetups (DevOps Geneva 2021), school courses (EPITECH 2020 and 2021, ESGI 2022, Epita 2021) and internal meetings.
+* -- Democratized AI within the company and outside through presentations at conferences (POSS 2019, Opensource Experience 2020), meetups (DevOps Geneva 2022), school courses (EPITECH 2020 and 2021, Epita 2021, ESGI 2022) and internal meetings.
 
 `2016 - 2019`
 __Lead Data Scientist__, Datapole (Paris/remote)
@@ -63,7 +63,7 @@ Create and deploy ML services, organize project and lead the data team.
 
 * -- Develop a parallelized autoML algorithm able to pick the right model for a given time serie dataset.
 * -- Create custom applications for a top tier client on text analysis (clustering and sentiment analysis about technical topics).
-* -- Accompanied a team of 5 data scientists and a data engineer to help develop the SaaS platform.
+* -- Lead a team of 5 data scientists and a data engineer to improve the SaaS platform.
 
 ## Education
 
@@ -71,10 +71,10 @@ Create and deploy ML services, organize project and lead the data team.
 __PhD in Material Science__, Université de Grenoble Alpes
 
 `Sept 2011`
-__Master degree Physic__, Université de Lille
+__Master degree in physics__, Université de Lille
 
 `Sept 2011`
-__Engineering School Chemistry__, École Nationale Supérieure de Chimie de Lille
+__Engineer degree in chemistry__, École Nationale Supérieure de Chimie de Lille
 
 
 <!-- ### Footer
